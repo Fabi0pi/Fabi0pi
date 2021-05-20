@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Fabi0pi
 - 👀 I am interested in everything related to technology and development, to work on the web. <br>
      Also I really like football, playing it and watching it.
-- 🌱 I’m currently learning web development I have some background on HTML CSS and JavaScript, <br>
-     now I am following a program and I will start PHP and MySQL then follow Node.js and Vue.js.
-- 💞️ I’m looking to collaborate with anyone, who offers me a job that allows me to deepen my knowledge. 
+- 🌱 I’m currently learning front end web development. I have background on HTML CSS and JavaScript, <br> and i have sucessfully developed project with all of          them. My goal is to become full stack developer.
+- 💞️ I’d be happy to collaborate with anyone that allows me to deepen my knowledge. 
 - 📫 mail: fabio.piras.nu@gmail.com <br>
      linkedin: https://www.linkedin.com/in/fabio-piras-07a090133
 
